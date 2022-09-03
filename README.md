@@ -1,0 +1,2 @@
+# BoardGamesAtlasGo
+Golang
